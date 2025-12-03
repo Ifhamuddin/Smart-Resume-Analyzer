@@ -29,7 +29,7 @@ A backend application that analyzes uploaded resumes, extracts key information, 
 | Version Control | Git & GitHub |
 
 ---
-
+```
 ## Project Structure
 Smart-Resume-Analyzer/
 ├── src/
@@ -48,6 +48,7 @@ Smart-Resume-Analyzer/
 ├── .gitignore
 └── README.md
 
+```
 yaml
 Copy code
 

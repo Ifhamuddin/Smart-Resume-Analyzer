@@ -117,6 +117,8 @@ mvn spring-boot:run
 Developer
 Mohammad Ifhamuddin
 Java Backend Developer
-LinkedIn: <your-link-here>
+LinkedIn: www.linkedin.com/in/
+mohammad-ifhamuddin-520ab1267
+
 GitHub: https://github.com/Ifhamuddin
 
